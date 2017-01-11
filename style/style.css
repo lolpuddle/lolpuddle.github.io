@@ -1,7 +1,27 @@
-#title-block {
+body {
+  background-color: #FBFBFB;
+}
+
+div {
   width: 50% ;
   margin-left: auto ;
   margin-right: auto ;
   text-align: center;
+}
+
+h4 {
+  color: #333333;
+}
+
+a {
+  color :#333333;
+}
+
+#title-block {
   padding-top: 10%;
+}
+
+#links-block {
+  padding-top: 1%;
+  font-family: 'Cutive Mono', monospace;
 }
